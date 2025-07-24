@@ -28,9 +28,9 @@
 
 ### 📈 GitHub Stats
 
-![Rasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasindu123&show_icons=true&theme=radical)
+![Rasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RCHKaushalya&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasindu123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RCHKaushalya&layout=compact&theme=radical)
 
 ---
 
